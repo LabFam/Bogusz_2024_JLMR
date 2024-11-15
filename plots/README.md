@@ -1,0 +1,1 @@
+This folder should contain plots in gph and png.
